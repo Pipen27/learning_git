@@ -1,0 +1,36 @@
+1.	Ile osób brało udział w projekcie? Ile czasu trwał projekt i co było zadaniem w projekcie?
+
+W projekcie brały udział cztery osoby plus jeden Project Manager, który był jednocześnie mentorem służącym pomocą w rozwiązywaniu problemów podczas tworzenia projektu. Projekt trwał cztery tygodnie. Zadaniem w projekcie było wykonanie backendu aplikacji webowej imitującej sklep internetowy, wykorzystując do tego Rest Api, które udostępnia Spring Framework.
+
+2.	Jak była zorganizowana komunikacja w zespole i podział zadań na poszczególne osoby?
+
+Komunikacja w zespole odbywała się poprzez:
+- chat grupowy stworzony przez Kodillę na czas trwania projektu,
+- chat grupowy stworzony przez członków zespołu na platformie Skype,
+- cotygodniowe video-spotkania całego zespołu + PM
+- komentarze do zadań w Jira
+- komentarze na platformie GitHub podczas Code Review
+
+Podział zadań odbywał się poprzez tablicę Kanban utworzoną specjalnie dla tego projektu. Wszystkie zadania do wykonania były rozpisane i umieszczone w kolumnie „backlog”. Każdy z członków zespołu wybierał kolejne zadania i przypisywał je do siebie oraz przenosił je do kolumny „in Progress”. Po wykonaniu zadania należało przenieść zadanie do kolumny „in review” i utworzyć pullrequest’a po uprzednim wysłaniu zmian do zdalnego repozytorium. W pierwszym tygodniu, akceptowania pullrequest’ów dokonywał PM, a w kolejnych 3 tygodniach już sami członkowie zespołu.
+
+3.	W jaki sposób dbaliście o jakość i spójność wynikowego kodu projektu?
+
+Zgodnie ze wstępnymi zaleceniami PM, zaczęliśmy od stworzenia schematu bazy danych. Każdy z członków zespołu stworzył schemat według własnego pomysłu, po czym podczas video-spotkania została ustalona ostateczna wersja. Następnie ustaliliśmy główne założenia projektowe np. w jakim pakiecie mają znajdować się poszczególne klasy, określenie typów dla pól, czy będziemy korzystać z Loomboka, itp.. Z czasem dodawaliśmy kolejne założenia, wszystko było zapisywane w pliku, do którego każdy miał dostęp i możliwość modyfikacji.
+Pomocnym w dbaniu o spójność kodu było również dokonywanie tzw. CodeReview, gdzie w przypadku jakiś wątpliwości odbywała się dyskusja głównie poprzez chat grupowy na Skypie lub poprzez komentowanie części kodu na GitHubie.
+
+4.	Co było największym problemem w pracy zespołowej i jak sobie z tym poradziliście?
+
+Głównym problemem podczas pracy w zespole była zróżnicowana dyspozycyjność, niektórzy członkowie mogli pracować nad projektem głównie przez weekend, inni tylko od poniedziałku do piątku. Staraliśmy się jednak wszyscy w miarę możliwości na etapach, gdzie praca jednego członka zespołu była uzależniona od prac innego, wygospodarować kilka godzin na dokończenie tych uzależnionych od siebie prac, żeby projekt nie utknął w miejscu.                
+
+5.	Jakie widzisz korzyści z pracy zespołowej w tym projekcie?
+
+Było to dla mnie zupełnie nowe doświadczenie podczas nauki programowania, taka mała namiastka rzeczywistej pracy dewelopera. Rozwiązywanie problemów w grupie jest dużo łatwiejsze, szybsze i przyjemniejsze niż samemu.
+
+6.	Co było dla Ciebie największym wyzwaniem?
+
+Praca z GitHubem, opanowanie nowych poleceń i funkcji (np. merge, pull, tworzenie branchów, codeReview, akceptowanie pull requestów), których podczas pracy jednoosobowej się praktycznie nie używa.
+
+7.	Gdybyś zaczynał projekt od zera, co byś poprawił lub zrobił inaczej?
+
+Podczas projektu powtórzyłem i utrwaliłem wiedzę z zakresu REST API i  biblioteki Springa, w związku z czym główny szkielet projektu powstałby szybciej i można byłoby skupić się na dodawaniu „smaczków” do projektu, bardziej zaawansowanych funkcji.
+

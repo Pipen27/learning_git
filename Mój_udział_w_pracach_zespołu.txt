@@ -1,0 +1,94 @@
+MÓJ UDZIAŁ W PRACACH ZESPOŁU
+
+Lista zadań zrealizowanych przeze mnie:
+
+1.	GroupController - testy endpointów
+Link: https://projects.kodilla.com/projects/JDP210603/issues/JDP210603-7?filter=doneissues
+Status: Done
+Project Points: 5
+
+2.	UserController - wstępna implementacja endpointów
+Link: https://projects.kodilla.com/projects/JDP210603/issues/JDP210603-5?filter=doneissues
+Status: Done
+Project Points: 5 
+
+3.	ProductController - testy endpointów
+Link: https://projects.kodilla.com/projects/JDP210603/issues/JDP210603-6?filter=doneissues
+Status: Done
+Project Points: 5
+
+4.	Encja Group – implementacja
+Link: https://projects.kodilla.com/projects/JDP210603/issues/JDP210603-13?filter=doneissues
+Status: Done
+Project Points: 5
+
+5.	UserController test failed
+Link: https://projects.kodilla.com/projects/JDP210603/issues/JDP210603-29?filter=doneissues
+Status: Done
+Project Points: 1
+
+6.	Encja Cart – testy
+Link: https://projects.kodilla.com/projects/JDP210603/issues/JDP210603-19?filter=doneissues
+Status: Done
+Project Points: 5
+
+7.	CartController - rzeczywista implementacja metod
+Link: https://projects.kodilla.com/projects/JDP210603/issues/JDP210603-23?filter=doneissues
+Status: Done
+Project Points: 5
+
+8.	Grupa_case_01
+Link: https://projects.kodilla.com/projects/JDP210603/issues/JDP210603-32?filter=doneissues
+Status: Done
+Project Points: 1
+
+ 
+9.	Grupa_case_02
+Link: https://projects.kodilla.com/projects/JDP210603/issues/JDP210603-33?filter=doneissues
+Status: Done
+Project Points: 1
+
+10.	Grupa_case_03
+Link: https://projects.kodilla.com/projects/JDP210603/issues/JDP210603-34?filter=doneissues
+Status: Done
+Project Points: 1
+
+11.	Grupa_case_04
+Link: https://projects.kodilla.com/projects/JDP210603/issues/JDP210603-35?filter=doneissues
+Status: Done
+Project Points: 1
+
+12.	Produkty_case_01
+Link: https://projects.kodilla.com/projects/JDP210603/issues/JDP210603-36?filter=doneissues
+Status: Done
+Project Points: 1
+
+13.	Produkty_case_02
+Link: https://projects.kodilla.com/projects/JDP210603/issues/JDP210603-37?filter=doneissues
+Status: Done
+Project Points: 1
+
+14.	Produkty_case_03
+Link: https://projects.kodilla.com/projects/JDP210603/issues/JDP210603-38?filter=doneissues
+Status: Done
+Project Points: 1
+
+15.	Produkty_case_04
+Link: https://projects.kodilla.com/projects/JDP210603/issues/JDP210603-39?filter=doneissues
+Status: Done
+Project Points: 1
+
+16.	Produkty_case_05
+Link: https://projects.kodilla.com/projects/JDP210603/issues/JDP210603-40?filter=doneissues
+Status: Done
+Project Points: 1
+
+
+
+
+
+PODSUMOWANIE
+•	Liczba zrealizowanych zadań: 7 + 9 (testy końcowe)
+•	Suma „Project Points” za zrealizowane zadania: 31 + 9 (testy końcowe) – Łącznie 40
+•	Liczba zadań rozpoczętych: brak
+•	Suma „Project Points” za zadania rozpoczęte: brak
